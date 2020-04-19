@@ -1,18 +1,23 @@
 export const products = [
   {
-    name: 'Phone XL',
+    name: 'Record of Data Processing (RODP)',
     price: 799,
-    description: 'A large phone with one of the best screens'
+    description: 'A  easy way to capture your data processing operations'
   },
   {
-    name: 'Phone Mini',
+    name: 'Data Protection Impact Assessment (DPIA)',
     price: 699,
-    description: 'A great phone with one of the best cameras'
+    description: 'A better way to do your DPIA'
   },
   {
-    name: 'Phone Standard',
+    name: 'Training for RODP',
     price: 299,
-    description: ''
+    description: 'Training for RODP'
+  },
+  {
+    name: 'Training for DPIA',
+    price: 199,
+    description: 'Training for DPIA'
   }
 ];
 
